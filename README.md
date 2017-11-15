@@ -1,6 +1,6 @@
 # Description
-It is a memory management system uses “binary buddies” strategy.
-This program includes two files “memory_manager.c” and “memory_manager.h”. I also provided a test program “Test.c” for debug and to test how is it works. A makefile for compile is also provided.
+It is a memory management system using “binary buddies” strategy.
+This program includes two files “memory_manager.c” and “memory_manager.h”. I also provided a test program “Test.c” for debug and to test how is it works. A makefile for compiler is also provided.
 
 This program has following functions:
 
@@ -36,5 +36,5 @@ release_memory: release &lt;pointer><br />
 end_memory: end<br />
 
 # License
-UDP-Pinger is released under the MIT License  
+This program is released under the MIT License  
 http://opensource.org/licenses/MIT
